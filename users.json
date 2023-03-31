@@ -1,0 +1,52 @@
+[
+    {
+        "id": "2",
+        "name": "Balakrishnan M",
+        "email": "krrishmbk6677@gmail.com",
+        "password": "$2y$10$Y4536Jtkw7gcgfJckaHEI.UqPXE9QbAm346laZ80ZsRvpaDojCuNa",
+        "age": "0",
+        "dob": "2023-03-02",
+        "contact": "9894477300",
+        "timestamp": "2023-03-30 00:08:08"
+    },
+    {
+        "id": "3",
+        "name": "devayani",
+        "email": "devayani2702@gmail.com",
+        "password": "$2y$10$eId.cCwW5UX8KN5dstUS1.\/CGPSd4ihaBjyRJh9AMmjt\/TWeAiJli",
+        "age": "0",
+        "dob": "2023-03-02",
+        "contact": "9894477302",
+        "timestamp": "2023-03-30 00:08:35"
+    },
+    {
+        "id": "4",
+        "name": "hari",
+        "email": "hari@gmail.com",
+        "password": "$2y$10$EskEksAO82frbhPu5HbH3u7TRRSnU2uW5onAU9YfaLBSZi9DId5Y2",
+        "age": "0",
+        "dob": "2023-03-01",
+        "contact": "9894477304",
+        "timestamp": "2023-03-30 00:10:29"
+    },
+    {
+        "id": "5",
+        "name": "dava c",
+        "email": "devayani272@gmail.com",
+        "password": "$2y$10$xKmtv8DTOWUDewMa6PTpv.xP71fTCeLUZ8\/I\/RRCDuw6IyumG9BgO",
+        "age": "0",
+        "dob": "2023-03-01",
+        "contact": "9894477306",
+        "timestamp": "2023-03-30 03:49:39"
+    },
+    {
+        "id": "6",
+        "name": "Balakrishnan",
+        "email": "krrishmbk6688@gmail.com",
+        "password": "$2y$10$wGeQgd13P9PeD2RsEvnhpOmf9usiT5WXzNfiVRZTk5TuqXrtl\/6TO",
+        "age": null,
+        "dob": null,
+        "contact": null,
+        "timestamp": "2023-03-30 04:03:27"
+    }
+]
